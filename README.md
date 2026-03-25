@@ -37,3 +37,22 @@ This project demonstrates a real-time client-server architecture where multiple 
 ---
 
 ## 📂 Project Structure
+server.py # Handles connections, broadcasting, logging
+client.py # Connects to server and sends/receives messages
+chat_log.txt # Stores chat history (auto-generated)
+
+demo host
+<img width="550" height="151" alt="Screenshot 2026-03-25 160019" src="https://github.com/user-attachments/assets/086f897d-17c6-417f-89c8-3f443e8e7685" />
+
+ribal username
+<img width="589" height="287" alt="Screenshot 2026-03-25 162352" src="https://github.com/user-attachments/assets/7e9d3c1d-f56f-466c-a707-f3da4d90b596" />
+
+salman username
+<img width="625" height="424" alt="Screenshot 2026-03-25 162403" src="https://github.com/user-attachments/assets/894376c8-e997-4b15-8bee-89c02ce4be75" />
+
+dana username
+<img width="599" height="402" alt="Screenshot 2026-03-25 162414" src="https://github.com/user-attachments/assets/126ac836-0812-4094-b128-33bc571d4890" />
+
+
+
+
